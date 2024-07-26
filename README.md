@@ -1,1 +1,1 @@
-# Tip-Calculator
+# A Tip-Calculator made in vanilla JavaScipt
